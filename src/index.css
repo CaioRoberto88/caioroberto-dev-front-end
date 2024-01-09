@@ -1,0 +1,37 @@
+.btn-contato {
+    min-width: 250px;
+    text-align: center;
+}
+
+.headerImg {
+    background-image: url("/images/header.png");
+    background-size: 100%;
+    background-position: center;
+}
+
+.banner {
+    background-color: #000524;
+    padding: 30px 0px;
+    border-radius: 10px;
+}
+
+.cardAltura {
+    min-height: 250px;
+}
+
+.skillsContainer {
+    display: inline-flex;
+}
+
+.skillsLogo {
+    height: 50px;
+    margin: 20px;
+}
+
+.portfolio-item {
+    transition: 10s all ease-in-out;
+}
+
+.portfolio-item:hover {
+    bottom: 10px;
+}

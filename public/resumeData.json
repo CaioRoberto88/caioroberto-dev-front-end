@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name": "Caio Roberto",
+    "description": "Desenvolvedor web front-end",
+    "image": "profilepic.jpg",
+    "headerImg": "header.png",
+    "skills": [
+      { "name": "HTML5", "img": "HTML5.png" },
+      { "name": "CSS3", "img": "CSS3.png" },
+      { "name": "Javascript", "img": "javascript.png" },
+      { "name": "Bootstrap 5", "img": "bootstrap.png" },
+      { "name": "React.js", "img": "reactjs.png" },
+      { "name": "Figman", "img": "figman.png" }
+    ],
+    "bio": "Sou Caio Roberto, tenho 35 anos, estou me especializando no desenvolvimento front-end, e eu estou passando por uma transição de carreira para essa área da programação, pois eu era técnico de manutenção e suporte em informática, atuei de forma autônoma por alguns anos, e nesse momento estou aprendendo a programação, desde 2022 estou estudando para me capacitar nessa área, e já possuo alguns cursos bem relevantes.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "CaioRoberto.70@gmail.com",
+    "github": "https://github.com/",
+    "project": "https://github.com/",
+    "address": {
+      "city": "Serra -",
+      "state": "ES"
+    },
+    "website": "",
+    "contatoGithub": "https://github.com/caioroberto88",
+    "contatoLinkedin": "https://www.linkedin.com/in/caioroberto-dev-web",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/caioroberto-dev-web",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/caioroberto88",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Estou sempre me aperfeiçoado, buscando sempre me qualificar e ficar melhor preparado para os diversos desafios enfrentados na carreira de programador front-end.",
+    "education": [
+      {
+        "school": "Instituto Federal do Espirito Santo - IFES",
+        "degree": "Desenvolvimento web fullstack com node.js",
+        "graduated": "Junho 2022",
+        "description": "Reprograma-se foi um projeto de capacitação profissional, para jovens e adultos, projeto foi idealizado entre IFES - Campus de Cachoeiro do Itapemirim e a Action - Associação Capixada de Tecnologia, ele teve duração de 8 meses, sendo 4 meses para front-end, 4 para back-end."
+      },
+      {
+        "school": "Coursera",
+        "degree": "Desenvolvedor Front-end Meta",
+        "graduated": "Dezembro 2023",
+        "description": "Formação Avançada é um projeto do governo do estado do Espirito Santo, por meio do Qualificar ES, foi ofertados diversos cursos de qualificação profissional á distância em diversas áreas pela plataforma de ensino Coursera, o curso realizado por mim foi curso de Desenvolvimento Front-end da Meta, que teve duração de 8 meses."
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      },
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      },
+      {
+        "company": "",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "CSS3",
+        "level": "90%"
+      },
+      {
+        "name": "Javascript",
+        "level": "70%"
+      },
+      {
+        "name": "Bootstrap 5",
+        "level": "90%"
+      },
+      {
+        "name": "React.js",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "APP Móveis React",
+        "category": "Projeto feito usando framework front-end React, é um site de vendas e compras de móveis, tem conexão com API em Node.js, usando um banco de dados relacional sqlite",
+        "image": "https://www.youtube.com/embed/BLG3BbVMkLg?si=qvaPurQr1wAVT4Al",
+        "url": "https://frontend-app-moveis-react.vercel.app"
+      },
+      {
+        "title": "Banco de Talentos Reprograma-se",
+        "category": "Projeto feito usando framework front-end React, é um site que oferece oportunidades de encontrar talentos na área de programação, tem conexão com API em Node.js, usando um banco de dados relacional sqlite.",
+        "image": "https://www.youtube.com/embed/hcAullBp0iA?si=glNnaMKqKr0RclSX",
+        "url": "https://banco-talento-reprograma-se-beta-2023.vercel.app"
+      },
+      {
+        "title": "Blog de Games",
+        "category": "Blog de games, focando em todas as plataformas existentes de jogos na atualidade, foi feito usando React, tem integração com a API com Node.js, é usa um banco de dados relacional, sqlite.",
+        "image": "https://www.youtube.com/embed/K1v9WwDNLzE?si=esVaqpEhfr1HZjIT",
+        "url": "https://blog-games-beta.vercel.app"
+      },
+      {
+        "title": "Salão de Beleza",
+        "category": "Site feito em HTML, CSS, Javascript e a bibliotéca front-end Boostrap 5.",
+        "image": "https://www.youtube.com/embed/pqH8teBECOM?si=dEM7Q7ff7GgmgjXV",
+        "url": "https://d5143f65-b47e-40fb-82e7-bf32a72cb30a-00-3lu2bkuhtd5gd.global.replit.dev"
+      }
+    ]
+  }
+}
